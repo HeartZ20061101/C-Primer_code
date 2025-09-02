@@ -1,0 +1,26 @@
+# 忽略编译生成的可执行文件
+*.exe
+
+# 忽略 Visual Studio Code 配置文件
+.vscode/
+
+# 忽略其他编辑器配置文件
+.idea/
+
+# 忽略编译中间文件
+*.o
+*.obj
+*.pdb
+*.ilk
+*.sln
+*.vcxproj*
+
+# 忽略系统文件
+Thumbs.db
+.DS_Store
+
+# 忽略构建目录
+build/
+bin/
+Debug/
+Release/
